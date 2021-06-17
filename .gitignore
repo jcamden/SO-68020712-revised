@@ -1,0 +1,6 @@
+node_modules
+storybook-static
+jest-setup.ts
+jest.config.json
+
+.DS_Store
