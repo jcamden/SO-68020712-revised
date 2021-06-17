@@ -4,3 +4,5 @@ jest-setup.ts
 jest.config.json
 
 .DS_Store
+
+yarn.lock

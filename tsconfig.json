@@ -18,7 +18,7 @@
       "suppressImplicitAnyIndexErrors": true,
       "allowSyntheticDefaultImports": true,
     },
-    "include": ["src/index.tsx", "src/components/**/**/*.{ts,tsx}", "src/styles"],
+    "include": ["**/*.ts", "**/*.tsx",],
     "exclude": ["node_modules", "dist"],
   }
 
